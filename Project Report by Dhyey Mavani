@@ -4,13 +4,13 @@ However, one does not always have the ability to visit and experience the cities
 This project aims to provide insights on how similar certain cities across the world are, from the point of view of availability of commercial and services venues, according to the local population. This way, the user will be able to make an informed decision about the country he or she plans to move to.
 
 Target Audience
-The target audience for this project is the current and future expat community, composed by professionals who have relocated or want to relocate to different countries. For such professionals, it is always important to learn more about their prospects of personal life in the place they are about to move to.
+The target audience for this project is the current and future community, composed by professionals who have relocated or want to relocate to different countries. For such professionals, it is always important to learn more about their prospects of personal life in the place they are about to move to.
 Obtaining information on the commonly offered commercial, service and leisure options will allow the audience to build an initial perception of the top cities in the country they intend to live in, imagine how their personal life could be compared to their home city, and effectively prioritize their job search.
 
 Data Description
 The external data sources used for this project are:
-• Foursquare venue review data – using Foursquare API (https://developer.foursquare.com)
-• Simple Maps World Cities open database – database of the world's cities and towns (https://simplemaps.com/data/world-cities)
+• Foursquare venue review data – using Foursquare API
+• Simple Maps World Cities open database – database of the world's cities and towns
 
 Foursquare – Extract venue information for a selected venue; view user scores and reviews; view user comments; get nearest places to a given location
 Simple Maps – City or town name, country, isocode, population, capital city status, and geo localization
